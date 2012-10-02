@@ -7,7 +7,5 @@ Redirects to the download link from a shortened Dropbox link.
 Send a HTTP GET request like this:
 
 ```
-curl http://dropbox-resolver.herokuapp.com/?link=http%3A%2F%2Fdb.tt%2Fo6tO9Luc
+curl http://dropbox-resolver.herokuapp.com/?link=http://db.tt/rnqzj9tU
 ```
-
-Make sure the ``link`` parameter is URL escaped.
