@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    dropbox-resolver (0.0.1)
+      rack
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (1.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dropbox-resolver!
